@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "dadd0552d7cd35096b41cdcb10ac0138"
+build_time: [1573560370, 755148000]
+inputs:
+  "/Users/bako/FlutterProject/binary_contact/ios/Runner/AppDelegate.swift": [1570467159, 0]

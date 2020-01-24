@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/bako/FlutterProject/binary_contact/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/bako/FlutterProject/binary_contact/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/bako/FlutterProject/binary_contact/ios/Flutter/Flutter.framework/Headers/Flutter.h

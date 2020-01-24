@@ -1,0 +1,4 @@
+#Mon Nov 25 15:45:12 WAT 2019
+base.0=/Users/bako/FlutterProject/binary_contact/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
